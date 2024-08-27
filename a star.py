@@ -1,6 +1,5 @@
 import math
 import heapq
-
 # Define the Cell class
 class Cell:
 	def __init__(self):
