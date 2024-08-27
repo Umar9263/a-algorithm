@@ -12,7 +12,6 @@ class Cell:
 # Define the size of the grid
 ROW = 9
 COL = 10
-
 # Check if a cell is valid (within the grid)
 def is_valid(row, col):
 	return (row >= 0) and (row < ROW) and (col >= 0) and (col < COL)
